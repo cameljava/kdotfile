@@ -22,8 +22,8 @@ set ignorecase
 " Override the 'ignorecase' option if the search pattern contains upper case characters.
 set smartcase
 
-" Turn on relative line numbering
-set rnu
+" Turn on hybrid line numbering
+set nu rnu
 
 " Turn on file backups
 set backup
