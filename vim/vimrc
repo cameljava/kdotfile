@@ -72,5 +72,8 @@ let mapleader=","
 " Quickly save your file.
 map <leader>w :w!<cr>
 
+" Quickly save and quit your file.
+map <leader>wq :wq<cr>
+
 " For more options see ":help option-list" and ":options".
 
